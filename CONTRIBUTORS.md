@@ -13,4 +13,4 @@ Please follow the format exactly to avoid merge conflicts.
 ---
 
 ## Entries
-1. Tupasi Vittorio Noel F -hed-vntupasi-hash
+1. 
